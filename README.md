@@ -15,7 +15,7 @@ Python: Download Python for Django.
 MySQL: Download MySQL and install it for your database
 
 1) clone your repo:
-git clone https://github.com/yourusername/hackathon-project.git
+git clone 
 cd hackathon-project
 
 
